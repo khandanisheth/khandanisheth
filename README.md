@@ -71,7 +71,8 @@
 - 🚀 [TopDoctorsJaipur](https://github.com/khandanisheth/TopDoctorsJaipur) – React + Node.js Appointment Booking System  
 - 🛍️ [ShoppingApplication](https://github.com/khandanisheth/ShoppingApplication) – Java Desktop Shopping App  
 - 🧮 [CurrencyConverter](https://github.com/khandanisheth/CurrencyCanveter) – JavaScript Currency Converter  
-- 🧑‍💼 [Employee Crud App](https://github.com/khandanisheth/Employee_Crud_Operations) – React + JSON Server CRUD System  
+- 🧑‍💼 [Employee Crud App](https://github.com/khandanisheth/Employee_Crud_Operations) – React + JSON Server CRUD System
+- 🧑‍💼 [Employee Crud App](https://github.com/khandanisheth/java-full-course-code)) – java-full-course-code
 
 ---
 
