@@ -5,7 +5,7 @@
 🌱 Currently Learning: TypeScript, Next.js  
 🛠️ Tech Skills: React, Node.js, Express, MongoDB, Java, SQLite, Figma  
 📫 Reach me at: khandanishindia04@gmail.com  
-® My Resume : https://cdn.apna.co/resume/59482179_1753857297 
+® My Resume : https://cdn.apna.co/resume/59482179_1753857297 <br>
 <span>📞 +91 8920424789</span>
 
 
