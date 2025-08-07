@@ -1,15 +1,13 @@
-# 👋 Hi, I'm Mohammad Danish
+<h1 align="center">Hi 👋, I'm Mohammad Danish</h1>
 
-💻 A passionate Full Stack Developer from Jaipur, India  
-🎓 MCA Student | MERN Stack | Java & Android Developer | UI/UX Designer  
-🌱 Currently Learning: TypeScript, Next.js  
-🛠️ Tech Skills: React, Node.js, Express, MongoDB, Java, SQLite, Figma  
-📫 Reach me at: khandanishindia04@gmail.com  
-® My Resume : https://cdn.apna.co/resume/59482179_1753857297 <br>
-<span>📞 +91 8920424789</span>
+<p align="center">
+💻 A passionate Full Stack Developer from Jaipur, India <br/>
+🎓 MCA Student | MERN Stack | Java & Android Developer | UI/UX Designer <br/>
+🌱 Currently Learning: TypeScript, Next.js <br/>
+📫 Reach me at: <a href="mailto:khandanishindia04@gmail.com">khandanishindia04@gmail.com</a> <br/>
+📄 <a href="https://cdn.apna.co/resume/59482179_1753857297">My Resume</a> | 📞 +91 8920424789
+</p>
 
-
----
 ---
 
 ### 🛠️ Tech Stack
@@ -20,7 +18,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat&logo=mysql)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
 
 #### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
@@ -54,9 +51,12 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
-
 ---
 
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=khandanisheth&theme=radical&no-frame=true&margin-w=10&column=7)
+
+---
 
 ### 📊 GitHub Stats
 ![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khandanisheth&show_icons=true&theme=radical)
@@ -65,19 +65,26 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khandanisheth&theme=dark)
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=khandanisheth.khandanisheth)
+
 ---
 
 ### 📂 Pinned Projects
 - 🚀 [TopDoctorsJaipur](https://github.com/khandanisheth/TopDoctorsJaipur) – React + Node.js Appointment Booking System  
 - 🛍️ [ShoppingApplication](https://github.com/khandanisheth/ShoppingApplication) – Java Desktop Shopping App  
 - 🧮 [CurrencyConverter](https://github.com/khandanisheth/CurrencyCanveter) – JavaScript Currency Converter  
-- 🧑‍💼 [Employee Crud App](https://github.com/khandanisheth/Employee_Crud_Operations) – React + JSON Server CRUD System
-- 🧑‍💼 [Java-Full-Course-code](https://github.com/khandanisheth/java-full-course-code)) – java-full-course-code
+- 🧑‍💼 [Employee Crud App](https://github.com/khandanisheth/Employee_Crud_Operations) – React + JSON Server CRUD System  
+- 📘 [Java Full Course Code](https://github.com/khandanisheth/java-full-course-code) – Java learning resources
 
 ---
 
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danish-mern/)  
-[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:khandanishindia04@gmail.com)
-<span>📞 +91 8920424789</span>
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:khandanishindia04@gmail.com)  
+📞 +91 8920424789
+
+---
+
+> **"I am a tech enthusiast, working each day to get my better version update and outshine my role in God's play 🙂."**
+
