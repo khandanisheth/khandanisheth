@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Danish</h1>
 
 <p align="center">
-💻 A passionate Full Stack Developer from Jaipur, India <br/>
-🎓 MCA Student | MERN Stack | Java & Android Developer | UI/UX Designer <br/>
+💻 MERN Stack Developer | React.js | Node.js | Full-Stack Web Developer | REST APIs | MongoDB<br/>
+🎓 MCA Student <br/>
 🌱 Currently Learning: TypeScript, Next.js <br/>
 📫 Reach me at: <a href="mailto:khandanishindia04@gmail.com">khandanishindia04@gmail.com</a> <br/>
 📄 <a href="https://cdn.apna.co/resume/59482179_1753857297">My Resume</a> | 📞 +91 8920424789
