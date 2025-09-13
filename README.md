@@ -5,8 +5,7 @@
 🎓 MCA Student <br/>
 🌱 Currently Learning: TypeScript, Next.js <br/>
 📫 Reach me at: <a href="mailto:khandanishindia04@gmail.com">khandanishindia04@gmail.com</a> <br/>
-📄 <a href="[https://shorturl.at/iY0m9]
-        ">My Resume</a> | 📞 +91 9468858769
+📄 <a href="https://shorturl.at/iY0m9">My Resume</a> | 📞 +91 9468858769
 </p>
 
 ---
