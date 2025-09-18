@@ -59,10 +59,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khandanisheth&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=YOUR_PERSONAL_TOKEN)
-
-
+![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khandanisheth&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khandanisheth&layout=compact&theme=tokyonight)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khandanisheth&theme=dark)
 
