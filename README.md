@@ -50,26 +50,26 @@
 🔗 https://github.com/khandanisheth/Employee_Crud_Operations  
 
 ---
-
-# 📊 GitHub Stats (Fixed Working Links)
+# 📊 GitHub Stats
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=khandanisheth&show_icons=true&theme=radical&cache_seconds=86400" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=khandanisheth&show_icons=true&theme=radical" />
   <img height="180" src="https://streak-stats.demolab.com?user=khandanisheth&theme=radical" />
 </p>
 
 ---
 
-# 🌈 Top Languages (Working)
+# 🌈 Top Languages
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandanisheth&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake (Working)
+# 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/khandanisheth/khandanisheth/main/dist/snake.svg" />
 </p>
+
 
 ---
 
