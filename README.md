@@ -1,69 +1,55 @@
-<h1 align="center">Hi 👋, I'm Mohammad Danish</h1>
-<h3 align="center">MERN Stack Developer | Full Stack Web Developer</h3>
+<!-- Banner -->
+<h1 align="center">🌟 Mohammad Danish 🌟</h1>
+<h3 align="center">Full Stack MERN Developer | React | Node.js | MongoDB</h3>
 
 <p align="center">
-💻 Passionate about building scalable full-stack applications using React, Node.js & MongoDB.<br/>
-🌱 Currently learning: TypeScript & Next.js<br/>
-📫 Email: <a href="mailto:khandanishindia04@gmail.com">khandanishindia04@gmail.com</a><br/>
-📄 <a href="https://shorturl.at/iY0m9">View My Resume</a> • 📞 +91 8920424789
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2300F7FF&size=25&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 About Me
 
-### **Programming**
-| Java | JavaScript | C | C++ | SQL |
-|------|-------------|----|-----|-----|
+```javascript
+const danish = {
+  role: "MERN Stack Developer",
+  code: ["JavaScript", "Java", "C++", "SQL"],
+  askMeAbout: ["Web Development", "React", "Node.js", "APIs"],
+  currentFocus: "TypeScript & Next.js",
+  funFact: "I debug at 2 AM and it works! 😄"
+};
+🎯 Tech Stack
+💻 Languages
+<p align="left"> <img src="https://skillicons.dev/icons?i=js,java,cpp,c,mysql" /> </p>
+🌐 Frontend
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" /> </p>
+🔧 Backend
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p>
+🗄️ Databases
+<p align="left"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" /> </p>
+🛠️ Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio" /> </p>
+⭐ Featured Projects
+🚀 TopDoctorsJaipur – Appointment Booking System
+🔗 https://github.com/khandanisheth/TopDoctorsJaipur
+✔ React + Node.js + MySQL
+✔ Role-based Auth • Appointments • Reviews
 
-### **Frontend**
-| HTML5 | CSS3 | Bootstrap | React.js |
-|--------|--------|-----------|----------|
-
-### **Backend**
-| Node.js | Express.js | REST APIs |
-|----------|------------|------------|
-
-### **Databases**
-| MongoDB | MySQL | SQLite | JDBC |
-|----------|--------|----------|--------|
-
-### **Tools**
-| Git | GitHub | VS Code | Postman | Android Studio |
-|------|---------|----------|------------|----------------|
-
----
-
-## 🖥️ Featured Projects
-
-### 🔹 **TopDoctorsJaipur — Appointment Booking System**
-🔗 https://github.com/khandanisheth/TopDoctorsJaipur  
-React + Node.js + Express + MySQL
-
-### 🔹 **CartShop — MERN E-commerce App**  
+🛍️ CartShop – MERN E-Commerce App
 🔗 https://github.com/khandanisheth/ShoppingApplication
+✔ Product CRUD • Image Upload • JWT Auth
 
-### 🔹 **Employee CRUD App (React + JSON Server)**  
+👨‍💼 Employee CRUD App
 🔗 https://github.com/khandanisheth/Employee_Crud_Operations
+✔ React + JSON Server • CRUD Operations
 
-### 🔹 **Java Desktop Shopping App**  
-🔗 https://github.com/khandanisheth/ShoppingApplication
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=khandanisheth&show_icons=true&theme=tokyonight" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandanisheth&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔗 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/danish-mern/)  
-📧 Email: khandanishindia04@gmail.com  
-📞 Phone: +91 8920424789  
-
----
-
-> *“I am a tech enthusiast, improving daily and striving to outshine my role in God’s play.”*
+📊 GitHub Stats & Streaks
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=khandanisheth&show_icons=true&theme=radical" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=khandanisheth&theme=radical" /> </p>
+🌈 Top Languages
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandanisheth&layout=compact&theme=tokyonight" /> </p>
+🐍 Contribution Snake (Animated)
+<p align="center"> <img src="https://github.com/khandanisheth/khandanisheth/blob/output/github-contribution-grid-snake.svg" /> </p>
+🤝 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/danish-mern/"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="mailto:khandanishindia04@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://github.com/khandanisheth"><img src="https://skillicons.dev/icons?i=github" /></a> </p>
+✨ Quote
+“Becoming better than yesterday, one commit at a time.”
