@@ -1,0 +1,32 @@
+name: Generate Contribution Snake
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install generator
+        run: npm install -g github-contributions-grid-snake
+
+      - name: Generate snake SVG
+        run: |
+          mkdir -p output
+          github-contributions-grid-snake --username=khandanisheth --output=output/github-contribution-grid-snake.svg
+
+      - name: Commit & Push
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "Auto-update snake animation" || echo "No changes"
+          git push
