@@ -8,8 +8,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Generate Snake
@@ -18,8 +19,8 @@ jobs:
           github_user_name: khandanisheth
           outputs: dist/snake.svg
 
-      - name: Push to GitHub
+      - name: Commit and Push Snake Animation
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Generated snake animation"
-          file_pattern: dist/snake.svg
+          commit_message: "Generated Snake Animation"
+          file_pattern: "dist/snake.svg"
