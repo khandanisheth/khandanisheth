@@ -2,15 +2,16 @@
 <h3 align="center">Full Stack MERN Developer | React | Node.js | MongoDB</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2300F7FF&size=25&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 - 🌱 Learning: **TypeScript & Next.js**  
-- 🔥 Passion: Building Full Stack Web Apps  
-- 😄 Fun Fact: *I debug at 2 AM and it magically works!*  
+- 🔥 Passion: Building Full Stack Apps  
+- 😄 Fun Fact: *I debug at 2 AM & it magically works!*  
+- 📞 Contact: **+91 8920424789**  
 
 ---
 
@@ -37,39 +38,35 @@
 
 ### 🔹 **TopDoctorsJaipur – Appointment Booking System**  
 🔗 https://github.com/khandanisheth/TopDoctorsJaipur  
-✔ React + Node.js + MySQL  
-✔ Role-based Auth • Appointments • Reviews  
 
 ---
 
 ### 🔹 **CartShop – MERN E-Commerce App**  
 🔗 https://github.com/khandanisheth/ShoppingApplication  
-✔ Product CRUD • Image Upload • JWT Auth  
 
 ---
 
 ### 🔹 **Employee CRUD App**  
 🔗 https://github.com/khandanisheth/Employee_Crud_Operations  
-✔ React + JSON Server • CRUD Operations  
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats (Fixed Working Links)
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=khandanisheth&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=khandanisheth&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=khandanisheth&show_icons=true&theme=radical&cache_seconds=86400" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=khandanisheth&theme=radical" />
 </p>
 
 ---
 
-## 🌈 Top Languages
+# 🌈 Top Languages (Working)
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandanisheth&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake (Working)
 <p align="center">
   <img src="https://raw.githubusercontent.com/khandanisheth/khandanisheth/output/github-contribution-grid-snake.svg" />
 </p>
@@ -82,6 +79,8 @@
   <a href="mailto:khandanishindia04@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/khandanisheth"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
+
+<p align="center">📞 <b>+91 8920424789</b></p>
 
 ---
 
