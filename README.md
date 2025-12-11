@@ -1,4 +1,5 @@
 <h1 align="center">🌟 Mohammad Danish 🌟</h1>
+<h4 align="center">khandanisheth · he/him</h4>
 <h3 align="center">Full Stack MERN Developer | React | Node.js | MongoDB</h3>
 
 <p align="center">
@@ -12,64 +13,43 @@
 - 🔥 Passion: Building Full Stack Apps  
 - 😄 Fun Fact: *I debug at 2 AM & it magically works!*  
 - 📞 Contact: **+91 8920424789**  
+- 📫 Email: **khandanishindia04@gmail.com**
 
 ---
 
 ## 🚀 Tech Stack
-
-### **Languages**
-<p><img src="https://skillicons.dev/icons?i=js,java,cpp,c,mysql"></p>
-
-### **Frontend**
-<p><img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"></p>
-
-### **Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express"></p>
-
-### **Databases**
-<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"></p>
-
-### **Tools**
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio"></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,cpp,c,mysql,html,css,bootstrap,react,nodejs,express,mongodb,git,github,vscode,postman,androidstudio" />
+</p>
 
 ---
 
 ## ⭐ Featured Projects
-
-### 🔹 **TopDoctorsJaipur – Appointment Booking System**  
-🔗 https://github.com/khandanisheth/TopDoctorsJaipur  
-
----
-
-### 🔹 **CartShop – MERN E-Commerce App**  
-🔗 https://github.com/khandanisheth/ShoppingApplication  
+- **TopDoctorsJaipur** — https://github.com/khandanisheth/TopDoctorsJaipur  
+- **CartShop** — https://github.com/khandanisheth/ShoppingApplication  
+- **Employee CRUD App** — https://github.com/khandanisheth/Employee_Crud_Operations
 
 ---
 
-### 🔹 **Employee CRUD App**  
-🔗 https://github.com/khandanisheth/Employee_Crud_Operations  
-
----
-# 📊 GitHub Stats
+# 📊 GitHub Stats (Working Mirrors)
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=khandanisheth&show_icons=true&theme=radical" />
-  <img height="180" src="https://streak-stats.demolab.com?user=khandanisheth&theme=radical" />
+  <img height="160" src="https://github-readme-stats-git-master-koddr.vercel.app/api?username=khandanisheth&show_icons=true&theme=radical" />
+  <img height="160" src="https://streak-stats.demolab.com?user=khandanisheth&theme=radical" />
 </p>
 
 ---
 
-# 🌈 Top Languages
+# 🌈 Top Languages (Working Mirror)
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khandanisheth&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-git-master-koddr.vercel.app/api/top-langs/?username=khandanisheth&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Snake (Working)
 <p align="center">
   <img src="https://raw.githubusercontent.com/khandanisheth/khandanisheth/main/dist/snake.svg" />
 </p>
-
 
 ---
 
@@ -84,5 +64,4 @@
 
 ---
 
-## ✨ Quote
 > “Becoming better than yesterday, one commit at a time.”
