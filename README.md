@@ -54,7 +54,7 @@
 # 📊 GitHub Stats (Fixed Working Links)
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=khandanisheth&show_icons=true&theme=radical&cache_seconds=86400" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=khandanisheth&theme=radical" />
+  <img height="180" src="https://streak-stats.demolab.com?user=khandanisheth&theme=radical" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 
 # 🐍 Contribution Snake (Working)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khandanisheth/khandanisheth/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/khandanisheth/khandanisheth/main/dist/snake.svg" />
 </p>
 
 ---
