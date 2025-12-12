@@ -134,5 +134,3 @@ https://github.com/khandanisheth?tab=repositories
 
 ---
 
-
-Main turant bana deta hoon.
