@@ -1,95 +1,133 @@
-<!-- =========================
-  README — Mohammad Danish
-  Optimized for GitHub profile: recruiter-friendly, clean & scannable
-  Source: resume & projects (see attached). :contentReference[oaicite:1]{index=1}
-========================= -->
+<!-- ==========================================================
+   🌟 Premium GitHub Profile — Mohammad Danish
+   Professional | Clean | Recruiter-Friendly | Portfolio Style
+   Source Data: Resume + Projects + Experience  
+========================================================== -->
 
 <p align="center">
-  <strong style="font-size:20px">🌟 Mohammad Danish — MERN Stack Developer</strong><br/>
-  <em>Building scalable, maintainable web apps | React • Node • Express • MongoDB</em>
+  <img src="https://komarev.com/ghpvc/?username=khandanisheth&color=blue" alt="Profile Views"/>
 </p>
+
+<h1 align="center">👨‍💻 Mohammad Danish</h1>
+<p align="center"><strong>MERN Stack Developer | React | Node.js | MongoDB | JavaScript</strong></p>
 
 <p align="center">
-  📍 Jaipur, India &nbsp; • &nbsp; ✉️ <a href="mailto:khandanishindia04@gmail.com">khandanishindia04@gmail.com</a> &nbsp; • &nbsp; 📞 +91 8920424789
+  <a href="mailto:khandanishindia04@gmail.com">📩 Email Me</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/danish-mern/">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/khandanisheth">🐱 GitHub</a>
 </p>
 
 ---
 
-## 🔎 One-line summary
-Aspiring **Full-Stack MERN Developer** with hands-on experience building production-like apps, optimizing APIs and UI performance, and shipping features that improved user engagement and release speed. Strong fundamentals in **JavaScript, DSA, and clean code**.
+# 🎯 About Me  
+
+Aspiring **Full Stack MERN Developer** passionate about building performant, scalable and user-centric web applications.  
+Strong foundation in **JavaScript, React, Node, Express, MongoDB, SQL**, with proven ability to ship real-world solutions.
 
 ---
 
-## 🚀 What I bring (Highlights)
-- Built & deployed MERN apps — **user engagement +25%**.  
-- Optimized backend/frontend — **response time −15%**, **release time −20%**.  
-- Implemented secure auth & CI/CD improvements.  
-- Solved **200+** problems on competitive platforms; active in college programming club.
+## ⭐ Career Highlights  
+
+✨ Built & deployed MERN apps — **user engagement increased by 25%**  
+⚡ Optimized backend APIs — **response time improved by 15%**  
+🚀 Improved CI/CD pipeline — **release time reduced by 20%**  
+🔐 Implemented secure authentication (JWT, policies, validation)  
+💡 Solved **200+ DSA & coding problems** on GFG, CodeChef  
+🏅 Organized coding events & hackathons in college  
 
 ---
 
-## 🛠️ Skills (grouped)
-**Languages:** C • C++ • Java • JavaScript (ES6+)  
-**Frontend:** React • HTML5 • CSS3 • Bootstrap • jQuery  
-**Backend:** Node.js • Express • REST APIs • Auth (JWT / sessions)  
-**Database:** MongoDB • MySQL • JDBC  
-**Tools / DevOps:** Git • GitHub • Postman • VS Code • Basic CI/CD pipelines  
-**Core:** DSA • Debugging • Clean Code • Unit Testing (basic)
+# 🛠️ Skills & Technologies
+
+### **Frontend**
+- ⚛️ React.js  
+- 🎨 HTML5, CSS3, Bootstrap  
+- 🔧 jQuery  
+
+### **Backend**
+- 🟩 Node.js  
+- 🔗 Express.js  
+- 🔐 Authentication (JWT, Sessions)  
+- 🌐 REST APIs  
+
+### **Database**
+- 🍃 MongoDB  
+- 🐬 MySQL  
+- 🔌 JDBC  
+
+### **Programming Languages**
+- C  
+- C++  
+- Java  
+- JavaScript (ES6+)  
+
+### **Tools**
+- 🧪 Postman  
+- 📝 VS Code  
+- 🌀 Git & GitHub  
+- 🛠️ Basic CI/CD Pipelines  
 
 ---
 
-## 💼 Work Experience (impact-first)
+# 💼 Work Experience
 
-**MERN Stack Developer** — *Mission Minded Foundation, Jaipur*  
-*Feb 2025 — Aug 2025*  
-- Improved frontend & backend performance — **user engagement +25%**.  
-- Optimized APIs — **average response time −15%**.  
-- CI/CD pipeline improvements — **release time −20%**.  
-- Implemented secure authentication & authorization (policy-compliant).
-
-**Java Developer Intern** — *Dotsquares, Jaipur*  
-*Feb 2023 — Apr 2023*  
-- Fixed critical bugs and improved reporting accuracy **+20%**.  
-- Optimized SQL queries — **DB response time −30%**.  
-- Automated backend tasks — reduced manual effort **40%**.
+## 🚀 MERN Stack Developer — *Mission Minded Foundation, Jaipur*  
+**Feb 2025 – Aug 2025**  
+- Improved frontend & backend performance — **user engagement +25%**  
+- Optimized APIs — **response time −15%**  
+- CI/CD automation — **release speed +20%**  
+- Built secure authentication & authorization flow  
 
 ---
 
-## ⭐ Featured Projects (quick, recruiter-ready)
+## ☕ Java Developer Intern — *Dotsquares, Jaipur*  
+**Feb 2023 – Apr 2023**  
+- Debugged & optimized Java applications — **accuracy +20%**  
+- Reduced SQL query execution time — **−30%**  
+- Automated backend tasks — **manual workload −40%**  
 
-### TopDoctorsJaipur — Full-Stack Appointment System  
+---
+
+# 🚀 Featured Projects
+
+## 🏥 TopDoctorsJaipur — Full-Stack Appointment System  
 **Tech:** React • Node • Express • MySQL  
-- Appointment booking, reviews, admin dashboard, protected routes.  
-- Used by 30+ test users.  
-🔗 https://github.com/khandanisheth/TopDoctorsJaipur
+- Appointment booking + reviews  
+- Admin & user dashboards  
+- Used by **30+ users during testing**  
+🔗 https://github.com/khandanisheth/TopDoctorsJaipur  
 
-### CartShop — E-commerce Web App  
+---
+
+## 🛒 CartShop — E-commerce Web App  
 **Tech:** React • Node • Express • MongoDB • Multer  
-- Product CRUD, image upload, secure auth, responsive UI.  
-🔗 https://github.com/khandanisheth/ShoppingApplication
+- Product CRUD operations + image upload  
+- Secure login/signup with validation  
+- Responsive UI with Bootstrap  
+🔗 https://github.com/khandanisheth/ShoppingApplication  
 
-### Employee CRUD App  
+---
+
+## 👨‍💼 Employee CRUD App  
 **Tech:** React • Node  
-- Simple CRUD demo for learning/testing.  
-🔗 https://github.com/khandanisheth/Employee_Crud_Operations
-
-> Explore all projects: https://github.com/khandanisheth?tab=repositories
+- CRUD operations for employee management  
+🔗 https://github.com/khandanisheth/Employee_Crud_Operations  
 
 ---
 
-## 📦 What I’m open to
-- Internship / Jr. Full-Stack Developer roles (React/Node)  
-- Freelance frontend tasks (UI improvements)  
-- Projects that need performance tuning or API design
+# 📈 GitHub Summary
 
-If you have a role or a task, let's talk — **email me**: <khandanishindia04@gmail.com>
+✨ **Active MERN Developer**  
+📌 Explore all repositories:  
+https://github.com/khandanisheth?tab=repositories  
 
 ---
 
-## 🐍 Contribution Snake (optional)
-To add an animated snake, create `dist/snake.svg` in this repo and reference it:
+# 🐍 Contribution Snake (Optional)
+
+Add `dist/snake.svg` in your repo to show animation:
 
 ```md
 <p align="center">
-  <img src="dist/snake.svg" width="680" alt="contribution-snake" />
+  <img src="dist/snake.svg" width="600" alt="contribution-snake"/>
 </p>
