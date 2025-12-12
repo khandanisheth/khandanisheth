@@ -123,53 +123,16 @@ https://github.com/khandanisheth?tab=repositories
 
 ---
 
-# 🐍 Contribution Snake (Optional)
+# 🔗 Connect With Me  
 
-Add `dist/snake.svg` in your repo to show animation:
-
-```md
-<p align="center">
-  <img src="dist/snake.svg" width="600" alt="contribution-snake"/>
-</p>
-
-
-🔗 Connect With Me
-
-📧 Email: khandanishindia04@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/danish-mern/
-
-🐱 GitHub: https://github.com/khandanisheth
-
-📍 Jaipur, India
+📧 Email: khandanishindia04@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/danish-mern/  
+🐱 GitHub: https://github.com/khandanisheth  
+📍 Jaipur, India  
 
 <p align="center"><strong>✨ “Becoming better than yesterday, one commit at a time.” ✨</strong></p>
 
-
-
 ---
 
-# 🎨 Want This README to Look Even More Premium?
-
-I can additionally create:
-
-### ✔ **Custom GitHub Banner (PNG/JPG)**  
-Your name + role + tech stack → Professional header image.
-
-### ✔ **Tech Stack Icon Grid (Local SVG)**  
-Looks modern & visually premium.
-
-### ✔ **Fully Working GitHub Stats Section**  
-No broken mirrors — completely reliable.
-
-### ✔ **Animated Badges (Hire Me, Portfolio, Skills)**  
-Recruiters LOVE these.
-
----
-
-# 🔥 Tell me —  
-### **Banner bhi bana doon?** (Yes / No)  
-### Or “Is README me aur kya add karna chahte ho?”  
 
 Main turant bana deta hoon.
-
