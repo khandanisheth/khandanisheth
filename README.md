@@ -1,67 +1,111 @@
-<h1 align="center">🌟 Mohammad Danish 🌟</h1>
-<h4 align="center">khandanisheth · he/him</h4>
-<h3 align="center">Full Stack MERN Developer | React | Node.js | MongoDB</h3>
+<h1 align="center">🌟 Mohammad Danish — MERN Stack Developer 🌟</h1>
+<h3 align="center">Building Scalable & Real-World Web Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Always+Learning+New+Things" />
+💻 MERN Stack | ⚛️ React | 🟩 Node.js | 🍃 MongoDB | ☕ Java  
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-- 🌱 Learning: **TypeScript & Next.js**  
-- 🔥 Passion: Building Full Stack Apps  
-- 😄 Fun Fact: *I debug at 2 AM & it magically works!*  
-- 📞 Contact: **+91 8920424789**  
-- 📫 Email: **khandanishindia04@gmail.com**
+## 👋 About Me  
+
+Aspiring **Full Stack MERN Developer** with hands-on experience in building scalable and user-focused web applications.  
+Strong in **JavaScript, React, Node.js, Express, MongoDB, SQL**, and **clean code practices**.  
+
+🔹 MCA Student — *Rajasthan Technical University (SGPA: 8.79)*  
+🔹 Built real-world MERN projects used by 30+ users  
+🔹 Strong DSA & problem-solving (200+ coding problems solved)  
+🔹 Passionate about writing clean, maintainable & scalable code  
+
+📧 **Email:** khandanishindia04@gmail.com  
+📞 **Phone:** +91 8920424789  
+📍 **Location:** Jaipur, India  
 
 ---
 
-## 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,cpp,c,mysql,html,css,bootstrap,react,nodejs,express,mongodb,git,github,vscode,postman,androidstudio" />
-</p>
+## 🚀 Skills & Technologies
+
+### **Programming**
+C • C++ • Java • JavaScript (ES6+)  
+
+### **Frontend**
+React.js • HTML5 • CSS3 • Bootstrap • jQuery  
+
+### **Backend**
+Node.js • Express.js • REST APIs • Authentication  
+
+### **Database**
+MongoDB • MySQL • JDBC  
+
+### **Tools**
+Git • GitHub • Postman • VS Code  
+
+---
+
+## 🏆 Work Experience
+
+### 🔹 **MERN Stack Developer — Mission Minded Foundation, Jaipur**  
+*Feb 2025 – Aug 2025*  
+- Improved frontend & backend performance, increasing user engagement by **25%**.  
+- Optimized APIs → response time reduced by **15%**.  
+- CI/CD improvements → deployment time reduced by **20%**.  
+- Implemented secure authentication (100% policy compliant).  
+
+### 🔹 **Java Developer Intern — Dotsquares, Jaipur**  
+*Feb 2023 – Apr 2023*  
+- Debugged & optimized Java applications (accuracy +20%).  
+- Reduced SQL query time by **30%**.  
+- Automated backend tasks → manual effort down **40%**.  
 
 ---
 
 ## ⭐ Featured Projects
-- **TopDoctorsJaipur** — https://github.com/khandanisheth/TopDoctorsJaipur  
-- **CartShop** — https://github.com/khandanisheth/ShoppingApplication  
-- **Employee CRUD App** — https://github.com/khandanisheth/Employee_Crud_Operations
+
+### 🏥 **TopDoctorsJaipur — Full-Stack Appointment Booking System**
+**React.js • Node.js • Express • MySQL**  
+✔ Appointment booking & review system  
+✔ Admin + User dashboards  
+✔ Used by 30+ users during testing  
+🔗 https://github.com/khandanisheth/TopDoctorsJaipur  
 
 ---
 
-# 📊 GitHub Stats (Working Mirrors)
+### 🛒 **CartShop — E-commerce Web App**
+**React.js • Node.js • Express • MongoDB • Multer**  
+✔ Product CRUD + Image Upload  
+✔ Secure Login/Signup  
+✔ Responsive UI with Bootstrap  
+🔗 https://github.com/khandanisheth/ShoppingApplication  
+
+---
+
+### 👨‍💼 **Employee CRUD App**
+Basic CRUD system using React & Node  
+🔗 https://github.com/khandanisheth/Employee_Crud_Operations  
+
+---
+
+## 📊 GitHub Summary
+
+> GitHub sometimes blocks external images, so here is a clean text-based summary.
+
+- 🔥 **Active MERN Developer**  
+- 📂 Explore all my projects:  
+  👉 https://github.com/khandanisheth?tab=repositories  
+
+---
+
+## 🐍 Contribution Snake
+
+> Add a file named `dist/snake.svg` to your repo to show the animated snake.
+
+```md
 <p align="center">
-  <img height="160" src="https://github-readme-stats-git-master-koddr.vercel.app/api?username=khandanisheth&show_icons=true&theme=radical" />
-  <img height="160" src="https://streak-stats.demolab.com?user=khandanisheth&theme=radical" />
+  <img src="dist/snake.svg" width="600" />
 </p>
+🤝 Connect With Me
+🔗 LinkedIn: https://www.linkedin.com/in/danish-mern/
+🐱 GitHub: https://github.com/khandanisheth
+✉️ Email: khandanishindia04@gmail.com
 
----
-
-# 🌈 Top Languages (Working Mirror)
-<p align="center">
-  <img height="160" src="https://github-readme-stats-git-master-koddr.vercel.app/api/top-langs/?username=khandanisheth&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-# 🐍 Contribution Snake (Working)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khandanisheth/khandanisheth/main/dist/snake.svg" />
-</p>
-
----
-
-## 🤝 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/danish-mern/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:khandanishindia04@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/khandanisheth"><img src="https://skillicons.dev/icons?i=github" /></a>
-</p>
-
-<p align="center">📞 <b>+91 8920424789</b></p>
-
----
-
-> “Becoming better than yesterday, one commit at a time.”
+<h3 align="center">✨ “Becoming better than yesterday, one commit at a time.” ✨</h3> ```
